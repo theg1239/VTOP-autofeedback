@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "VIT Feedback Automator",
+    "version": "1.7",
+    "description": "Automates the posting of course feedback on VIT's feedback portal.",
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "storage",
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
